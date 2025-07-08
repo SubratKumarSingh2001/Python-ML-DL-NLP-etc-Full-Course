@@ -1,2 +1,3 @@
 This repository contains all the resources, codes, datasets, and project files created while following a comprehensive course covering topics from basic to advanced in Python, Machine Learning, Deep Learning, Natural Language Processing, and more.
+<br>
 📂 What's Included
