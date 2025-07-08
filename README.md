@@ -8,7 +8,7 @@
   <h1>📘 Python, Machine Learning, Deep Learning, NLP & More – Full Course Repository</h1>
 
   <p>
-    This repository contains <strong>all the resources, codes, datasets, and project files</strong> created while following a comprehensive course covering topics from <strong>basic to advanced</strong> in Python, Machine Learning, Deep Learning, Natural Language Processing, and more.
+    This repository contains <strong>all the resources, codes, datasets, and project files</strong> created while following a comprehensive course covering topics from <strong>basic to advanced</strong> in Python, Machine Learning, Deep Learning, Natural Language Processing, Transformers, Git, Docker, and more.
   </p>
 
   <h2>📂 What's Included</h2>
@@ -35,6 +35,27 @@
         <li>Sentiment analysis, spam detection, etc.</li>
       </ul>
     </li>
+    <li>🤖 <strong>Transformers</strong>:
+      <ul>
+        <li>Hugging Face Transformers</li>
+        <li>BERT, GPT models</li>
+        <li>Fine-tuning and inference</li>
+      </ul>
+    </li>
+    <li>🐙 <strong>Git & GitHub for Beginners</strong>:
+      <ul>
+        <li>Version control basics</li>
+        <li>Git CLI and GitHub workflows</li>
+        <li>Branching, merging, pull requests</li>
+      </ul>
+    </li>
+    <li>🐳 <strong>Docker for Beginners</strong>:
+      <ul>
+        <li>Containerization basics</li>
+        <li>Dockerfiles, Images, Containers</li>
+        <li>Using Docker for ML projects</li>
+      </ul>
+    </li>
     <li>📁 <strong>Datasets</strong>: All datasets used in practice and projects are included.</li>
     <li>🧪 <strong>Mini Projects</strong>: Hands-on projects to apply learned concepts.</li>
     <li>🚀 <strong>Full-Fledged Projects</strong>: Complete real-world level projects with code, dataset, and output files.</li>
@@ -55,7 +76,7 @@
 
   <h2>🎯 Purpose</h2>
   <p>
-    This repository serves as a <strong>comprehensive learning and reference hub</strong> for anyone learning Python, ML, DL, NLP, and related technologies through a structured course-based approach.
+    This repository serves as a <strong>comprehensive learning and reference hub</strong> for anyone learning Python, ML, DL, NLP, Git, Docker, Transformers, and related technologies through a structured course-based approach.
   </p>
 
 </body>
