@@ -1,0 +1,2 @@
+Hello New file created. 
+The file and folder are join through the os module. 
