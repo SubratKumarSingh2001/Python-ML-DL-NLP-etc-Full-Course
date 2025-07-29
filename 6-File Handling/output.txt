@@ -1,0 +1,3 @@
+['Subrat', 'Khushi', 'Raj'] 
+['Apple', 'Banana', 'Orange'] 
+['House', 'Villa', 'Mansion'] 
