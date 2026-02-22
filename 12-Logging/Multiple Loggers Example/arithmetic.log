@@ -1,0 +1,12 @@
+The addition of 2 + 3 = 5
+The subtraction of 5 - 6 = -1
+The addition of 2 + 3 = 5
+The subtraction of 5 - 6 = -1
+2026-02-20 17:21:45,082 - arithmetic - DEBUG - The addition of 2 + 3 = 5
+2026-02-20 17:21:45,082 - arithmetic - DEBUG - The subtraction of 5 - 6 = -1
+2026-02-20 17:24:40-arithmetic-DEBUG-The addition of 2 + 3 = 5
+2026-02-20 17:24:40-arithmetic-DEBUG-The subtraction of 5 - 6 = -1
+2026-02-20 17:24:44-arithmetic-DEBUG-The addition of 2 + 3 = 5
+2026-02-20 17:24:44-arithmetic-DEBUG-The subtraction of 5 - 6 = -1
+2026-02-20 17:24:45-arithmetic-DEBUG-The addition of 2 + 3 = 5
+2026-02-20 17:24:45-arithmetic-DEBUG-The subtraction of 5 - 6 = -1
