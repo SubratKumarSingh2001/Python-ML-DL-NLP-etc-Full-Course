@@ -1,0 +1,10 @@
+2026-02-21 23:32:13,518 - app-file - DEBUG - This is a debug message
+2026-02-21 23:32:13,522 - app-file - INFO - This is an info message
+2026-02-21 23:32:21,350 - app-file - DEBUG - This is a debug message
+2026-02-21 23:32:21,353 - app-file - INFO - This is an info message
+2026-02-21 23:33:07,379 - app-file - DEBUG - This is a debug message
+2026-02-21 23:33:07,382 - app-file - INFO - This is an info message
+2026-02-21 23:33:32,025 - app-file - DEBUG - This is a debug message
+2026-02-21 23:33:32,029 - app-file - INFO - This is an info message
+2026-02-22 13:18:05,083 - app-file - DEBUG - This is a debug message
+2026-02-22 13:18:05,093 - app-file - INFO - This is an info message

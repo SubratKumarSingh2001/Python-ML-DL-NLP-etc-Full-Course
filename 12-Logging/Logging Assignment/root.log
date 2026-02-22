@@ -1,0 +1,173 @@
+2026-02-21 23:33:07,384 - DEBUG - This is a debug message
+2026-02-21 23:33:07,386 - INFO - This is an info message
+2026-02-21 23:33:32,032 - DEBUG - This is a debug message
+2026-02-21 23:33:32,035 - INFO - This is an info message
+2026-02-22 13:18:05,083 - DEBUG - This is a debug message
+2026-02-22 13:18:05,093 - INFO - This is an info message
+2026-02-22 13:18:05,102 - DEBUG - This is a debug message
+2026-02-22 13:18:05,106 - INFO - This is an info message
+2026-02-22 14:44:10,667 - INFO - setupConfig module started
+2026-02-22 14:44:10,668 - DEBUG - This is Debug message
+2026-02-22 14:44:10,668 - INFO - This is info message
+2026-02-22 14:44:10,668 - WARNING - This is warning messages
+2026-02-22 14:44:10,669 - ERROR - This is error message
+2026-02-22 14:44:10,669 - CRITICAL - This is critical message
+2026-02-22 14:44:10,669 - DEBUG - This is Debug message
+2026-02-22 14:44:10,670 - INFO - This is info message
+2026-02-22 14:44:10,670 - WARNING - This is warning messages
+2026-02-22 14:44:10,671 - ERROR - This is error message
+2026-02-22 14:44:10,671 - CRITICAL - This is critical message
+2026-02-22 14:44:10,672 - INFO - setupConfig module ended
+2026-02-22 14:46:55,993 - INFO - setupConfig module started
+2026-02-22 14:46:55,994 - DEBUG - This is Debug message
+2026-02-22 14:46:55,994 - INFO - This is info message
+2026-02-22 14:46:55,994 - WARNING - This is warning messages
+2026-02-22 14:46:55,995 - ERROR - This is error message
+2026-02-22 14:46:55,995 - CRITICAL - This is critical message
+2026-02-22 14:46:55,995 - DEBUG - This is Debug message
+2026-02-22 14:46:55,996 - INFO - This is info message
+2026-02-22 14:46:55,996 - WARNING - This is warning messages
+2026-02-22 14:46:55,996 - ERROR - This is error message
+2026-02-22 14:46:55,996 - CRITICAL - This is critical message
+2026-02-22 14:46:55,997 - INFO - setupConfig module ended
+2026-02-22 14:54:01,786 - INFO - setupConfig module started
+2026-02-22 14:54:01,786 - DEBUG - This is Debug message
+2026-02-22 14:54:01,787 - INFO - This is info message
+2026-02-22 14:54:01,787 - WARNING - This is warning messages
+2026-02-22 14:54:01,787 - ERROR - This is error message
+2026-02-22 14:54:01,788 - CRITICAL - This is critical message
+2026-02-22 14:54:01,788 - DEBUG - This is Debug message
+2026-02-22 14:54:01,788 - INFO - This is info message
+2026-02-22 14:54:01,788 - WARNING - This is warning messages
+2026-02-22 14:54:01,789 - ERROR - This is error message
+2026-02-22 14:54:01,789 - CRITICAL - This is critical message
+2026-02-22 14:54:01,789 - INFO - setupConfig module ended
+2026-02-22 14:56:12,227 - __main__ - INFO - setupConfig module started
+2026-02-22 14:56:12,228 - moduleA - DEBUG - This is Debug message
+2026-02-22 14:56:12,228 - moduleA - INFO - This is info message
+2026-02-22 14:56:12,229 - moduleA - WARNING - This is warning messages
+2026-02-22 14:56:12,229 - moduleA - ERROR - This is error message
+2026-02-22 14:56:12,230 - moduleA - CRITICAL - This is critical message
+2026-02-22 14:56:12,230 - moduleB - DEBUG - This is Debug message
+2026-02-22 14:56:12,230 - moduleB - INFO - This is info message
+2026-02-22 14:56:12,231 - moduleB - WARNING - This is warning messages
+2026-02-22 14:56:12,231 - moduleB - ERROR - This is error message
+2026-02-22 14:56:12,231 - moduleB - CRITICAL - This is critical message
+2026-02-22 14:56:12,231 - __main__ - INFO - setupConfig module ended
+2026-02-22 14:56:39,804 - INFO - setupConfig module started
+2026-02-22 14:56:39,804 - DEBUG - This is Debug message
+2026-02-22 14:56:39,805 - INFO - This is info message
+2026-02-22 14:56:39,805 - WARNING - This is warning messages
+2026-02-22 14:56:39,805 - ERROR - This is error message
+2026-02-22 14:56:39,806 - CRITICAL - This is critical message
+2026-02-22 14:56:39,806 - DEBUG - This is Debug message
+2026-02-22 14:56:39,806 - INFO - This is info message
+2026-02-22 14:56:39,807 - WARNING - This is warning messages
+2026-02-22 14:56:39,807 - ERROR - This is error message
+2026-02-22 14:56:39,807 - CRITICAL - This is critical message
+2026-02-22 14:56:39,808 - INFO - setupConfig module ended
+2026-02-22 14:58:21,266 - INFO - setupConfig module started
+2026-02-22 14:58:21,266 - DEBUG - This is Debug message
+2026-02-22 14:58:21,267 - INFO - This is info message
+2026-02-22 14:58:21,267 - WARNING - This is warning messages
+2026-02-22 14:58:21,267 - ERROR - This is error message
+2026-02-22 14:58:21,267 - CRITICAL - This is critical message
+2026-02-22 14:58:21,268 - DEBUG - This is Debug message
+2026-02-22 14:58:21,268 - INFO - This is info message
+2026-02-22 14:58:21,268 - WARNING - This is warning messages
+2026-02-22 14:58:21,269 - ERROR - This is error message
+2026-02-22 14:58:21,269 - CRITICAL - This is critical message
+2026-02-22 14:58:21,269 - INFO - setupConfig module ended
+2026-02-22 14:58:41,653 - INFO - setupConfig module started
+2026-02-22 14:58:41,654 - DEBUG - This is Debug message
+2026-02-22 14:58:41,654 - INFO - This is info message
+2026-02-22 14:58:41,655 - WARNING - This is warning messages
+2026-02-22 14:58:41,655 - ERROR - This is error message
+2026-02-22 14:58:41,655 - CRITICAL - This is critical message
+2026-02-22 14:58:41,656 - DEBUG - This is Debug message
+2026-02-22 14:58:41,656 - INFO - This is info message
+2026-02-22 14:58:41,656 - WARNING - This is warning messages
+2026-02-22 14:58:41,657 - ERROR - This is error message
+2026-02-22 14:58:41,657 - CRITICAL - This is critical message
+2026-02-22 14:58:41,657 - INFO - setupConfig module ended
+2026-02-22 14:59:05,548 - INFO - setupConfig module started
+2026-02-22 14:59:05,549 - DEBUG - This is Debug message
+2026-02-22 14:59:05,549 - INFO - This is info message
+2026-02-22 14:59:05,549 - WARNING - This is warning messages
+2026-02-22 14:59:05,550 - ERROR - This is error message
+2026-02-22 14:59:05,550 - CRITICAL - This is critical message
+2026-02-22 14:59:05,550 - DEBUG - This is Debug message
+2026-02-22 14:59:05,550 - INFO - This is info message
+2026-02-22 14:59:05,551 - WARNING - This is warning messages
+2026-02-22 14:59:05,551 - ERROR - This is error message
+2026-02-22 14:59:05,551 - CRITICAL - This is critical message
+2026-02-22 14:59:05,551 - INFO - setupConfig module ended
+2026-02-22 15:00:26,284 - INFO - setupConfig module started
+2026-02-22 15:00:26,285 - DEBUG - This is Debug message
+2026-02-22 15:00:26,286 - INFO - This is info message
+2026-02-22 15:00:26,286 - WARNING - This is warning messages
+2026-02-22 15:00:26,286 - ERROR - This is error message
+2026-02-22 15:00:26,287 - CRITICAL - This is critical message
+2026-02-22 15:00:26,287 - DEBUG - This is Debug message
+2026-02-22 15:00:26,287 - INFO - This is info message
+2026-02-22 15:00:26,287 - WARNING - This is warning messages
+2026-02-22 15:00:26,288 - ERROR - This is error message
+2026-02-22 15:00:26,288 - CRITICAL - This is critical message
+2026-02-22 15:00:26,288 - INFO - setupConfig module ended
+2026-02-22 15:02:13,729 - INFO - setupConfig module started
+2026-02-22 15:02:13,729 - DEBUG - This is Debug message
+2026-02-22 15:02:13,730 - INFO - This is info message
+2026-02-22 15:02:13,730 - WARNING - This is warning messages
+2026-02-22 15:02:13,730 - ERROR - This is error message
+2026-02-22 15:02:13,730 - CRITICAL - This is critical message
+2026-02-22 15:02:13,731 - DEBUG - This is Debug message
+2026-02-22 15:02:13,731 - INFO - This is info message
+2026-02-22 15:02:13,731 - WARNING - This is warning messages
+2026-02-22 15:02:13,732 - ERROR - This is error message
+2026-02-22 15:02:13,732 - CRITICAL - This is critical message
+2026-02-22 15:02:13,732 - INFO - setupConfig module ended
+2026-02-22 15:14:00,207 - INFO - setupConfig module started
+2026-02-22 15:14:00,207 - DEBUG - This is Debug message
+2026-02-22 15:14:00,207 - INFO - This is info message
+2026-02-22 15:14:00,208 - WARNING - This is warning messages
+2026-02-22 15:14:00,208 - ERROR - This is error message
+2026-02-22 15:14:00,208 - CRITICAL - This is critical message
+2026-02-22 15:14:00,208 - DEBUG - This is Debug message
+2026-02-22 15:14:00,209 - INFO - This is info message
+2026-02-22 15:14:00,209 - WARNING - This is warning messages
+2026-02-22 15:14:00,209 - ERROR - This is error message
+2026-02-22 15:14:00,210 - CRITICAL - This is critical message
+2026-02-22 15:14:00,210 - INFO - setupConfig module ended
+2026-02-22 15:14:21,311 - __main__ - INFO - setupConfig module started
+2026-02-22 15:14:21,311 - moduleA - DEBUG - This is Debug message
+2026-02-22 15:14:21,312 - moduleA - INFO - This is info message
+2026-02-22 15:14:21,312 - moduleA - WARNING - This is warning messages
+2026-02-22 15:14:21,312 - moduleA - ERROR - This is error message
+2026-02-22 15:14:21,312 - moduleA - CRITICAL - This is critical message
+2026-02-22 15:14:21,313 - moduleB - DEBUG - This is Debug message
+2026-02-22 15:14:21,313 - moduleB - INFO - This is info message
+2026-02-22 15:14:21,313 - moduleB - WARNING - This is warning messages
+2026-02-22 15:14:21,313 - moduleB - ERROR - This is error message
+2026-02-22 15:14:21,314 - moduleB - CRITICAL - This is critical message
+2026-02-22 15:14:21,314 - __main__ - INFO - setupConfig module ended
+2026-02-22 15:21:45,955 - __main__ - INFO - setupConfig module started
+2026-02-22 15:21:45,957 - __main__ - INFO - setupConfig module ended
+2026-02-22 15:22:38,199 - __main__ - INFO - setupConfig module started
+2026-02-22 15:22:38,199 - moduleA - DEBUG - This is Debug message
+2026-02-22 15:22:38,200 - moduleA - INFO - This is info message
+2026-02-22 15:22:38,200 - moduleA - WARNING - This is warning messages
+2026-02-22 15:22:38,200 - moduleA - ERROR - This is error message
+2026-02-22 15:22:38,201 - moduleA - CRITICAL - This is critical message
+2026-02-22 15:22:38,201 - __main__ - INFO - setupConfig module ended
+2026-02-22 15:22:50,535 - __main__ - INFO - setupConfig module started
+2026-02-22 15:22:50,535 - moduleA - DEBUG - This is Debug message
+2026-02-22 15:22:50,536 - moduleA - INFO - This is info message
+2026-02-22 15:22:50,537 - moduleA - WARNING - This is warning messages
+2026-02-22 15:22:50,537 - moduleA - ERROR - This is error message
+2026-02-22 15:22:50,538 - moduleA - CRITICAL - This is critical message
+2026-02-22 15:22:50,538 - moduleB - DEBUG - This is Debug message
+2026-02-22 15:22:50,539 - moduleB - INFO - This is info message
+2026-02-22 15:22:50,539 - moduleB - WARNING - This is warning messages
+2026-02-22 15:22:50,540 - moduleB - ERROR - This is error message
+2026-02-22 15:22:50,540 - moduleB - CRITICAL - This is critical message
+2026-02-22 15:22:50,540 - __main__ - INFO - setupConfig module ended

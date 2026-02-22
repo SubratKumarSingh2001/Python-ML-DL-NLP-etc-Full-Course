@@ -1,0 +1,6 @@
+2026-02-21 20:14:11,772 - exception-logger - ERROR - There is an exception as division by zero
+Traceback (most recent call last):
+  File "C:\Users\Subrat Kumar Singh\AppData\Local\Temp\ipykernel_8332\3224767451.py", line 13, in logging_exception
+    result = 1/0
+             ~^~
+ZeroDivisionError: division by zero

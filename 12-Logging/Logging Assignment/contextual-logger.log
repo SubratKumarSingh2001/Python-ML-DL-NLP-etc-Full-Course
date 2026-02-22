@@ -1,0 +1,12 @@
+2026-02-21 20:48:48,459 - contextual-logger - ERROR - This is error message - test - 19
+2026-02-21 20:48:48,460 - contextual-logger - CRITICAL - This is critical message - test - 20
+2026-02-21 20:51:34,787 - contextual-logger - DEBUG - This is Debug message - test - 16
+2026-02-21 20:51:34,787 - contextual-logger - INFO - This is info message - test - 17
+2026-02-21 20:51:34,787 - contextual-logger - WARNING - This is warning messages - test - 18
+2026-02-21 20:51:34,788 - contextual-logger - ERROR - This is error message - test - 19
+2026-02-21 20:51:34,788 - contextual-logger - CRITICAL - This is critical message - test - 20
+2026-02-21 20:55:08,341 - contextual-logger - DEBUG - This is Debug message - test - 16
+2026-02-21 20:55:08,341 - contextual-logger - INFO - This is info message - test - 17
+2026-02-21 20:55:08,341 - contextual-logger - WARNING - This is warning messages - test - 18
+2026-02-21 20:55:08,342 - contextual-logger - ERROR - This is error message - test - 19
+2026-02-21 20:55:08,342 - contextual-logger - CRITICAL - This is critical message - test - 20

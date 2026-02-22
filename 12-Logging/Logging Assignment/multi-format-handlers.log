@@ -1,0 +1,15 @@
+2026-02-21 15:09:20,653 - multi-format-handlers - DEBUG - This is Debug message
+2026-02-21 15:09:20,656 - multi-format-handlers - INFO - This is info message
+2026-02-21 15:09:20,659 - multi-format-handlers - WARNING - This is warning messages
+2026-02-21 15:09:20,662 - multi-format-handlers - ERROR - This is error message
+2026-02-21 15:09:20,664 - multi-format-handlers - CRITICAL - This is critical message
+2026-02-21 15:09:38,574 - multi-format-handlers - DEBUG - This is Debug message
+2026-02-21 15:09:38,578 - multi-format-handlers - INFO - This is info message
+2026-02-21 15:09:38,581 - multi-format-handlers - WARNING - This is warning messages
+2026-02-21 15:09:38,584 - multi-format-handlers - ERROR - This is error message
+2026-02-21 15:09:38,588 - multi-format-handlers - CRITICAL - This is critical message
+2026-02-21 16:21:20,552 - multi-format-handlers - DEBUG - This is Debug message
+2026-02-21 16:21:20,557 - multi-format-handlers - INFO - This is info message
+2026-02-21 16:21:20,560 - multi-format-handlers - WARNING - This is warning messages
+2026-02-21 16:21:20,564 - multi-format-handlers - ERROR - This is error message
+2026-02-21 16:21:20,568 - multi-format-handlers - CRITICAL - This is critical message

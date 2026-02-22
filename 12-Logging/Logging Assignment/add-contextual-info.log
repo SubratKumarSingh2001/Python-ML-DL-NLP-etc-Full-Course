@@ -1,0 +1,15 @@
+2026-02-21 21:01:56,337 - add-contextual-info - DEBUG - This is Debug message - addition_contextual_info - 14 - User-id: 32 - Session-id: 28
+2026-02-21 21:01:56,338 - add-contextual-info - INFO - This is info message - addition_contextual_info - 15 - User-id: 32 - Session-id: 28
+2026-02-21 21:01:56,338 - add-contextual-info - WARNING - This is warning messages - addition_contextual_info - 16 - User-id: 32 - Session-id: 28
+2026-02-21 21:01:56,338 - add-contextual-info - ERROR - This is error message - addition_contextual_info - 17 - User-id: 32 - Session-id: 28
+2026-02-21 21:01:56,338 - add-contextual-info - CRITICAL - This is critical message - addition_contextual_info - 18 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:14,889 - add-contextual-info - DEBUG - This is Debug message - addition_contextual_info - 14 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:14,890 - add-contextual-info - INFO - This is info message - addition_contextual_info - 15 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:14,891 - add-contextual-info - WARNING - This is warning messages - addition_contextual_info - 16 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:14,891 - add-contextual-info - ERROR - This is error message - addition_contextual_info - 17 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:14,891 - add-contextual-info - CRITICAL - This is critical message - addition_contextual_info - 18 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:21,474 - add-contextual-info - DEBUG - This is Debug message - addition_contextual_info - 14 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:21,475 - add-contextual-info - INFO - This is info message - addition_contextual_info - 15 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:21,475 - add-contextual-info - WARNING - This is warning messages - addition_contextual_info - 16 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:21,475 - add-contextual-info - ERROR - This is error message - addition_contextual_info - 17 - User-id: 32 - Session-id: 28
+2026-02-21 21:28:21,475 - add-contextual-info - CRITICAL - This is critical message - addition_contextual_info - 18 - User-id: 32 - Session-id: 28

@@ -1,0 +1,15 @@
+2026-02-21 15:03:48,190 - custom-message - DEBUG - This is Debug message
+2026-02-21 15:03:48,193 - custom-message - INFO - This is info message
+2026-02-21 15:03:48,195 - custom-message - WARNING - This is warning messages
+2026-02-21 15:03:48,197 - custom-message - ERROR - This is error message
+2026-02-21 15:03:48,199 - custom-message - CRITICAL - This is critical message
+2026-02-21 15:03:54,365 - custom-message - DEBUG - This is Debug message
+2026-02-21 15:03:54,367 - custom-message - INFO - This is info message
+2026-02-21 15:03:54,370 - custom-message - WARNING - This is warning messages
+2026-02-21 15:03:54,373 - custom-message - ERROR - This is error message
+2026-02-21 15:03:54,375 - custom-message - CRITICAL - This is critical message
+2026-02-21 16:21:20,463 - custom-message - DEBUG - This is Debug message
+2026-02-21 16:21:20,469 - custom-message - INFO - This is info message
+2026-02-21 16:21:20,472 - custom-message - WARNING - This is warning messages
+2026-02-21 16:21:20,475 - custom-message - ERROR - This is error message
+2026-02-21 16:21:20,477 - custom-message - CRITICAL - This is critical message
